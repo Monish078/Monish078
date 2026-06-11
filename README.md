@@ -1,5 +1,5 @@
 # 💫 Hi! I'm Monish Khan:
-a final-year B.Tech student at NSUT Delhi, transitioning into software with a clear goal of becoming a Java Backend Developer. I build scalable backend systems using Java, Spring Boot, REST APIs, WebSockets, and MongoDB
+final-year B.Tech student at NSUT Delhi, transitioning into software with a clear goal of becoming a Java Backend Developer. I build scalable backend systems using Java, Spring Boot, REST APIs, WebSockets, and MongoDB
 
 
 ## 🌐 Socials:
