@@ -5,7 +5,7 @@
 I build secure, production-style backend systems using Java and Spring Boot.  
 Currently focused on backend development — REST APIs, JWT authentication, Spring Security, and database design.
 
-> 📢 **Open to SDE / Backend Developer roles (2025 batch)**
+> 📢 **Open to SDE / Backend Developer roles (2027 batch)**
 
 ---
 
