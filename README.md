@@ -57,4 +57,3 @@ Currently focused on backend development — REST APIs, JWT authentication, Spri
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monish-khan786/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monishkhan2408@gmail.com)
