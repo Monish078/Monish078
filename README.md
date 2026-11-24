@@ -1,4 +1,4 @@
-# Hi, I'm Monish Khan 👋
+# Hi, I'm Monish Khan 
 
 **Java Backend Developer** · Final Year B.Tech @ NSUT Delhi (Instrumentation & Control Engineering)
 
